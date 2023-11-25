@@ -25,3 +25,4 @@ Add a shadow to any Source you wish to have a shadow for, optionally even a shad
 
 ## Displacement Mapping (Filter)
 Displace the pixels of the Source, in any way you want - create a whirl, zoom in, whatever your input normal map can do will happen with this Filter.
+
